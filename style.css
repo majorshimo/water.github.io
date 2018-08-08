@@ -1,0 +1,20 @@
+body{
+	background: url("https://www.maxpixel.net/static/photo/2x/Sea-Landscape-Summer-Waves-Sky-Water-Nature-2921486.jpg") no-repeat center center fixed;
+	background-size: cover;
+	height: 100%;
+}
+.col{
+	margin-top: 25%;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	font-size: 8em;
+}
+
+.btn{
+	display: block;
+	margin: auto;
+
+}
